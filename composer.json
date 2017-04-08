@@ -1,11 +1,17 @@
 {
     "name": "lmh/life-open-api-sdk",
-    "description": "sdk",
-    "type": "sdk",
+    "description": "life-open-api-sdk an demo",
+     "keywords": [
+        "api",
+        "sdk", 
+        "demo"
+    ],
+    "type": "sdk,demo",
+      "license" : "MIT",
     "authors": [
         {
             "name": "LiMinghua",
-            "email": "lmh@fshows.com"
+            "email": "991564110@qq.com"
         }
     ],
     "require": {
