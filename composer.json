@@ -1,13 +1,9 @@
 {
     "name": "lmh/life-open-api-sdk",
     "description": "life-open-api-sdk an demo",
-     "keywords": [
-        "api",
-        "sdk", 
-        "demo"
-    ],
-    "type": "sdk,demo",
-      "license" : "MIT",
+    "keywords": ["api","sdk","demo"],
+    "type": "sdk-demo",
+    "license" : "MIT",
     "authors": [
         {
             "name": "LiMinghua",
